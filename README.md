@@ -1,1 +1,1 @@
-# PRO26CHECK
+# project-C24-template
